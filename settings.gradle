@@ -1,0 +1,2 @@
+rootProject.name = 'proyecto-microservicios'
+include 'cuenta-movimientos', 'cliente-persona'
